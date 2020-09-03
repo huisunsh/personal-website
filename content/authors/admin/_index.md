@@ -52,7 +52,7 @@ social:
   link: 'mailto:hui.sun@kellogg.northwestern.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/huisunsh16
+  link: https://twitter.com/huisunsh
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
