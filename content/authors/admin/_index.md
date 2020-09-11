@@ -75,5 +75,9 @@ email: ""
 # - Visitors
 ---
 
-I am a Ph.D. candidate from the [Management & Organizations Department](https://www.kellogg.northwestern.edu/faculty/academics/management-and-organizations.aspx) at Kellogg School of Management. My research interests include organizational search and learning, cognitive science, and social networks. I use a mix of qualitative data, 	computational modeling, and lab experiments. Prior to graduate school, I was a member of the [Dynamic Decision Making Lab](https://www.cmu.edu/dietrich/sds/ddmlab/) at the Department of Social and Decision Sciences (SDS) at Carnegie Mellon University.
+I am a Ph.D. candidate from the [Management & Organizations Department](https://www.kellogg.northwestern.edu/faculty/academics/management-and-organizations.aspx) at Kellogg School of Management. My research centers around cognition in organizations. Specifically, I study how cognitive processes, such as memory and attention, guide individuals and firms to selectively navigate through their environment and learn from limited experiences. In another stream of my research, I explore the interaction between cognition, communication and coordination in firms. 
+
+
+
+I use a mix of qualitative data, computational modeling, and lab experiments. Prior to graduate school, I was a member of the [Dynamic Decision Making Lab](https://www.cmu.edu/dietrich/sds/ddmlab/) at the Department of Social and Decision Sciences (SDS) at Carnegie Mellon University.
 
