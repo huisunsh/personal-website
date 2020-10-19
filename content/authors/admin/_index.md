@@ -79,5 +79,7 @@ I am a Ph.D. candidate from the [Management & Organizations Department](https://
 
 
 
-I use a mix of qualitative data, computational modeling, and lab experiments. Prior to graduate school, I was a member of the [Dynamic Decision Making Lab](https://www.cmu.edu/dietrich/sds/ddmlab/) at the Department of Social and Decision Sciences (SDS) at Carnegie Mellon University.
+I use a mix of qualitative data, computational modeling, and lab experiments. Prior to graduate school, I was a member of the [Dynamic Decision Making Lab](https://www.cmu.edu/dietrich/sds/ddmlab/) at the Department of Social and Decision Sciences (SDS) at [Carnegie Mellon University](https://www.cmu.edu/dietrich/sds/).
 
+
+When I am offline, I have fun playing [pipa](https://en.wikipedia.org/wiki/Pipa) and cello, and making posters for ASQ Blog. 
