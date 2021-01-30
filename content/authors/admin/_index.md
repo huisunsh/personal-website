@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include organizational search and learning, cognitive science, and social networks. I use a mix of qualitative data, computational modeling, and experiments.
 
-interests:
+research interests:
 - Organizational Search and Learning
 - Cognitive Science
 - Social Networks
@@ -75,11 +75,14 @@ email: ""
 # - Visitors
 ---
 
-I am a Ph.D. candidate from the [Management & Organizations Department](https://www.kellogg.northwestern.edu/faculty/academics/management-and-organizations.aspx) at Kellogg School of Management. My research centers around cognition in organizations. Specifically, I study how cognitive processes, such as memory and attention, guide individuals and firms to selectively navigate through their environment and learn from limited experiences. In another stream of my research, I explore the interaction between cognition, communication and coordination in firms. 
+I am a Ph.D. candidate in the [Management & Organizations Department](https://www.kellogg.northwestern.edu/faculty/academics/management-and-organizations.aspx) at Kellogg School of Management, Northwestern University. My research is at the intersection of managerial cognition and organizational learning, behavioral strategy, with a strong influence from computational cognitive science. My dissertation combines computational modeling with a longitudinal qualitative study to explore how founders' knowledge structure interacts and co-evolves with pursuits of behavioral capabilities. In my prior work, I study how mental structure of knwoledge, independent of its content, leads to differential returns in social networks. In simpler words, independent of what you know, how you mentally organize what you know matters.
 
+In a related stream of research, I theorize language systems, both natural languages and artificial languages (e.g., programming languages), as enacted knowledge structures. Leveraging insights from game theory and computational linguisitcs, I explore the role of language systems in firm cooridnation and shed new light on the questions of bounded rationality. 
 
+As a mixed-methods scholar, I use a combination of quantitative, qualitative and computational methods. You can find resources of automating surveys (Javascript), interactive network analysis (R), network learning experiment (Python) on my Github.
 
-I use a mix of qualitative data, computational modeling, and lab experiments. Prior to graduate school, I was a member of the [Dynamic Decision Making Lab](https://www.cmu.edu/dietrich/sds/ddmlab/) at the Department of Social and Decision Sciences (SDS) at [Carnegie Mellon University](https://www.cmu.edu/dietrich/sds/).
+I am a keen advocate for women in coding and reproducible research.
 
+Prior to graduate school, I was a member of [Professor Cleotilde (Coty) Gonzalez](https://www.cmu.edu/dietrich/sds/people/faculty/cleotilde-gonzalez.html)'s Dynamic Decision Making Lab in the [Department of Social and Decision Sciences](https://www.cmu.edu/dietrich/sds/) at Carnegie Mellon University.
 
-When I am offline, I have fun playing [pipa](https://en.wikipedia.org/wiki/Pipa) and cello, and designing posters for ASQ Blog. 
+When I am offline, I have fun playing [pipa](https://en.wikipedia.org/wiki/Pipa) and cello.
