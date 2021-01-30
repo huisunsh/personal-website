@@ -28,9 +28,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Management & Organizations
+  - course: PhD in Management & Organizations (minor in Computational Cognitive Science)
     institution: Northwestern University
-    year: 2022 (minor in Computational Cognitive Science)
+    year: 2022
   - course: MS in Management & Organizations
     institution: Northwestern University
     year: 2019
@@ -75,12 +75,12 @@ email: ""
 # - Visitors
 ---
 
-I am a Ph.D. candidate in the [Management & Organizations Department](https://www.kellogg.northwestern.edu/faculty/academics/management-and-organizations.aspx) at Kellogg School of Management, Northwestern University. My research is at the intersection of managerial cognition and organizational learning, with a strong influence from computational cognitive science. My dissertation combines computational modeling with a longitudinal qualitative study to explore how founders' knowledge structure interacts and co-evolves with their pursuits of behavioral capabilities. In my prior work, I study how mental structure of knwoledge, independent of its content, leads to differential returns in social networks. In simpler words, independent of what you know, how you mentally organize what you know matters.
+I am a Ph.D. candidate in the [Management & Organizations Department](https://www.kellogg.northwestern.edu/faculty/academics/management-and-organizations.aspx) at [Kellogg School of Management, Northwestern University](https://www.kellogg.northwestern.edu/). My research is at the intersection of managerial cognition and organizational learning, with a strong influence from computational cognitive science. My dissertation combines computational modeling with a longitudinal qualitative study to explore how founders' knowledge structure interacts and co-evolves with their pursuits of behavioral capabilities. In my prior work, I study how mental structure of knwoledge, independent of its content, leads to differential returns in social networks. In simpler words, independent of what you know, how you mentally organize what you know matters.
 
 In a related stream of research, I theorize language systems, both natural languages and artificial languages (e.g., programming languages), as enacted knowledge structures. Leveraging insights from game theory and computational linguisitcs, I explore the role of language systems in firm cooridnation and shed new light on the questions of bounded rationality. 
 
 As a mixed-methods scholar, I use a combination of quantitative, qualitative and computational methods. You can find resources on automating surveys (Javascript), interactive network analysis (R), and network learning experiments (Python) on my [Github](https://github.com/huisunsh). I am a keen advocate for women in coding and reproducible research.
 
-Prior to graduate school, I was a member of [Professor Cleotilde (Coty) Gonzalez](https://www.cmu.edu/dietrich/sds/people/faculty/cleotilde-gonzalez.html)'s Dynamic Decision Making Lab in the [Department of Social and Decision Sciences](https://www.cmu.edu/dietrich/sds/) at Carnegie Mellon University.
+Prior to graduate school, I was a member of [Professor Cleotilde (Coty) Gonzalez](https://www.cmu.edu/dietrich/sds/people/faculty/cleotilde-gonzalez.html)'s Dynamic Decision Making Lab at [Carnegie Mellon University](https://www.cmu.edu/dietrich/sds/).
 
 When I am offline, I have fun playing [pipa](https://en.wikipedia.org/wiki/Pipa) and cello.
