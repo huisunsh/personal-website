@@ -75,9 +75,7 @@ email: ""
 # - Visitors
 ---
 
-I am a Ph.D. candidate in the [Management & Organizations Department](https://www.kellogg.northwestern.edu/faculty/academics/management-and-organizations.aspx) at [Kellogg School of Management, Northwestern University](https://www.kellogg.northwestern.edu/). 
-
-I will be on the academic job market 2021-2022. Here is my CV {{< staticref "files/HuiSUN_CV2021.pdf" "newtab" >}} {{< icon name="download" pack="fas" >}} {{< /staticref >}}.
+I am a Ph.D. candidate in the [Management & Organizations Department](https://www.kellogg.northwestern.edu/faculty/academics/management-and-organizations.aspx) at Kellogg School of Management, Northwestern University. I will be on the academic job market 2021-2022. Here is my CV {{< staticref "files/HuiSUN_CV2021.pdf" "newtab" >}} {{< icon name="download" pack="fas" >}} {{< /staticref >}}.
 
 My research concerns the role of knowledge structure in social networks, organizational learning and entrepreneurship. 
 
