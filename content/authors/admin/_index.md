@@ -80,8 +80,8 @@ I am a Ph.D. candidate in the [Management & Organizations Department](https://ww
 My research concerns the role of knowledge structure in social networks, organizational learning and entrepreneurship. 
 
 - My dissertation combines computational modeling with a longitudinal qualitative study to explore how founders' knowledge structure co-evolves with different types of learning. 
-- I also study how individual's knowledge structure of their social connections impac their economic returns, independent of the content of their knowledge. In simpler words, independent of what you know, how you mentally organize what you know matters.
-- In a related stream of research, I theorize language systems, both natural languages and artificial languages (e.g., programming languages), as enacted knowledge structures that  interact with organizational structure and determine communicative capacity of firms. 
+- I also study how individuals' knowledge structure of social connections impact their economic returns, independent of the content of their knowledge. In simpler words, independent of what you know, how you mentally organize what you know matters.
+- In a related stream of research, I theorize language systems, both natural languages and artificial languages (e.g., programming languages), as enacted knowledge structure that  interact with organizational structure and determine the communicative capacity of firms. 
 
 As a mixed-methods scholar, I use a combination of quantitative, qualitative and computational methods. You can find resources on automating surveys (Javascript), interactive network analysis (R), and network learning experiments (Python) on my [Github](https://github.com/huisunsh). I am a keen advocate for women in coding and reproducible research.
 
