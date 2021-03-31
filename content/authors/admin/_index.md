@@ -75,12 +75,14 @@ email: ""
 # - Visitors
 ---
 
-I am a Ph.D. candidate in the [Management & Organizations Department](https://www.kellogg.northwestern.edu/faculty/academics/management-and-organizations.aspx) at [Kellogg School of Management, Northwestern University](https://www.kellogg.northwestern.edu/). I will be on the academic job market 2021-2022. You may find my CV here {{< staticref "files/HuiSUN_CV2021.pdf" "newtab" >}} {{< icon name="download" pack="fas" >}} {{< /staticref >}}.
+I am a Ph.D. candidate in the [Management & Organizations Department](https://www.kellogg.northwestern.edu/faculty/academics/management-and-organizations.aspx) at [Kellogg School of Management, Northwestern University](https://www.kellogg.northwestern.edu/). 
+
+I will be on the academic job market 2021-2022. Here is my CV {{< staticref "files/HuiSUN_CV2021.pdf" "newtab" >}} {{< icon name="download" pack="fas" >}} {{< /staticref >}}.
 
 My research concerns the role of knowledge structure in social networks, organizational learning and entrepreneurship. 
 
 - My dissertation combines computational modeling with a longitudinal qualitative study to explore how founders' knowledge structure co-evolves with different types of learning. 
-- In my prior work, I study how individual's knowledge structure of their social connections impac their economic returns, independent of the content of their knowledge. In simpler words, independent of what you know, how you mentally organize what you know matters.
+- I also study how individual's knowledge structure of their social connections impac their economic returns, independent of the content of their knowledge. In simpler words, independent of what you know, how you mentally organize what you know matters.
 - In a related stream of research, I theorize language systems, both natural languages and artificial languages (e.g., programming languages), as enacted knowledge structures that  interact with organizational structure and determine communicative capacity of firms. 
 
 As a mixed-methods scholar, I use a combination of quantitative, qualitative and computational methods. You can find resources on automating surveys (Javascript), interactive network analysis (R), and network learning experiments (Python) on my [Github](https://github.com/huisunsh). I am a keen advocate for women in coding and reproducible research.
