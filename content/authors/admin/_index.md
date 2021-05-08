@@ -79,7 +79,7 @@ I am a Ph.D. candidate in the [Management & Organizations Department](https://ww
 
 My research concerns the role of cognition in social networks, organizational learning and entrepreneurship. 
 
-- {{<u> Cognition X Entrepreneurship </u>}}: My dissertation combines computational modeling with a longitudinal qualitative study to understand how founders acquire new mental models through experiential bootstrapping. 
+- <u> Cognition X Entrepreneurship </u>: My dissertation combines computational modeling with a longitudinal qualitative study to understand how founders acquire new mental models through experiential bootstrapping. 
 - Cognition X Social Networks: I study how individuals mentally represent their social connections. In particular, I ask, how knowledge structure alone impacts individuals' economic returns, independent of the content of the knowledge. In simpler words, independent of what you know, how you mentally organize what you know matters.
 - Cognition X Coordination: I theorize language systems, both natural languages and artificial languages (e.g., programming languages), as enacted knowledge structure that interact with organizational structure and determine the communicative capacity of firms. 
 
