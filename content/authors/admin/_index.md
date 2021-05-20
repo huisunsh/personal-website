@@ -85,8 +85,7 @@ My research concerns the role of cognition in entrepreneurship, social networks,
 
 As a mixed-methods scholar, I use a combination of quantitative, qualitative and computational methods. You can find resources on automating surveys (Javascript), interactive network analysis (R), and network learning experiments (Python) on my [Github](https://github.com/huisunsh). I am a keen advocate for women in coding and reproducible research.
 
-Prior to Northwestern, I got my B.S. and B.A. from Tsinghua University and spent wonderful time as a member of [Professor Cleotilde (Coty) Gonzalez](https://www.cmu.edu/dietrich/sds/people/faculty/cleotilde-gonzalez.html)'s Dynamic Decision Making Lab at [Carnegie Mellon University](https://www.cmu.edu/dietrich/sds/).
+Prior to Northwestern, I obtained my B.S. and B.A. from Tsinghua University and spent wonderful time as a member of [Professor Cleotilde (Coty) Gonzalez](https://www.cmu.edu/dietrich/sds/people/faculty/cleotilde-gonzalez.html)'s Dynamic Decision Making Lab at [Carnegie Mellon University](https://www.cmu.edu/dietrich/sds/).
 
 When I am offline, I have fun playing [pipa](https://en.wikipedia.org/wiki/Pipa) and cello.
-
 
