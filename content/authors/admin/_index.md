@@ -77,15 +77,13 @@ email: ""
 
 I am a Ph.D. candidate in the [Management & Organizations Department](https://www.kellogg.northwestern.edu/faculty/academics/management-and-organizations.aspx) at Kellogg School of Management, Northwestern University. I will be on the academic job market 2021-2022. Here is my CV {{< staticref "files/HuiSUN_CV2021.pdf" "newtab" >}} {{< icon name="download" pack="fas" >}} {{< /staticref >}}.
 
-My research concerns the role of cognition in entrepreneurship, social networks, and organizational learning. 
+My research concerns the role of cognition in entrepreneurship, behavioral strategy and social networks.
 
-- <u>Cognition X Entrepreneurship</u>: My dissertation combines computational modeling with a longitudinal qualitative study to understand how founders acquire new mental models through experiential bootstrapping. 
-- <u>Cognition X Social networks</u> : I study how individuals mentally represent their social connections. In particular, I ask, how knowledge structure alone impacts individuals' economic returns, independent of the content of the knowledge. In simpler words, independent of what you know, how you mentally organize what you know matters.
-- <u> Cognition X Organizational learning</u> : I theorize language systems, both natural languages and artificial languages (e.g., programming languages), as enacted knowledge structure that interact with organizational structure and determine the communicative capacity of firms. 
+- <u>Cognition X Entrepreneurship X Behavioral Strategy</u>: I combine computational modeling, quantitative and qualitative methods to understand (a) how founders learn from a paucity of experience, (b) how founders' learning strategies influence the mental models they acquire, and shape their subsequent decisions, (c) for platform entrepreneurs, how conflicts in mental models can compromise effectiveness in governance, and (d) how to coordinate mental models through language.
+- <u>Cognition X Social networks</u> : I study how individuals mentally organize their social connections. In particular, I find that independent of who you know, how you mentally organize who you know matters.
 
 As a mixed-methods scholar, I use a combination of quantitative, qualitative and computational methods. You can find resources on automating surveys (Javascript), interactive network analysis (R), and network learning experiments (Python) on my [Github](https://github.com/huisunsh). I am a keen advocate for women in coding and reproducible research.
 
-Prior to Northwestern, I obtained my B.S. and B.A. from Tsinghua University and spent wonderful time as a member of [Professor Cleotilde (Coty) Gonzalez](https://www.cmu.edu/dietrich/sds/people/faculty/cleotilde-gonzalez.html)'s Dynamic Decision Making Lab at [Carnegie Mellon University](https://www.cmu.edu/dietrich/sds/).
+Prior to Northwestern, I obtained my B.S. in Experimental Psychology and B.A. in Digital Entertainment Design from Tsinghua University. I also spent wonderful time doing research on cognitive modeling in [Dr. Cleotilde (Coty) Gonzalez](https://www.cmu.edu/dietrich/sds/people/faculty/cleotilde-gonzalez.html)'s Dynamic Decision Making Lab at CMU's [Department of Social and Decision Sciences (SDS)](https://www.cmu.edu/dietrich/sds/) .
 
 When I am offline, I have fun playing [pipa](https://en.wikipedia.org/wiki/Pipa) and cello.
-
