@@ -23,12 +23,16 @@ bio: My research interests include organizational search and learning, cognitive
 interests:
 - Managerial Cognition
 - Organizational Learning
+- Entrepreneurship
 - Social Networks
 - Mixed Methods (computational, qualitative, experimental)
 
 education:
   courses:
   - course: PhD in Management & Organizations (minor in Computational Cognitive Science)
+    institution: Northwestern University
+    year: 2022
+  - course: MS in Statstics
     institution: Northwestern University
     year: 2022
   - course: MS in Management & Organizations
@@ -80,8 +84,8 @@ I am a Ph.D. candidate in the [Management & Organizations Department](https://ww
 My research concerns the role of cognition in entrepreneurship, behavioral strategy, and social networks.
 
 - <u>Cognition X Entrepreneurship</u>: I combine computational modeling and qualitative methods to understand (a) how founders learn from a paucity of experience, (b) how founders' learning strategies influence the structure of mental models they acquire, which subsequently shape their decisions.
-- <u>Cognition X Behavioral strategy</u>: Stories and models are two primary ways that organizations coordinate the cognition of their members. Hence, I ask (c) what are the limits of coordination through language, and (d) what are the limits of coordination through algorithms.
-- <u>Cognition X Social networks</u>: I study how individuals mentally organize their social connections. In particular, I find that independent of who you know, how you mentally organize who you know matters.
+- <u>Cognition X Behavioral strategy</u>: Stories and models are two primary ways that organizations coordinate the cognition of their members. Hence, I ask (a) what are the limits of coordination through language, and (b) what are the limits of coordination through algorithms.
+- <u>Cognition X Social networks</u>: I study how individuals mentally organize their social connections. In particular, I find that independent of who you know, how you mentally organize who you know matters. 
 
 As a mixed-methods scholar, I use a combination of quantitative, qualitative, and computational methods. You can find resources on automating surveys (Javascript), interactive network analysis (R), and network learning experiments (Python) on my [Github](https://github.com/huisunsh). I am a keen advocate for women in coding and reproducible research.
 
