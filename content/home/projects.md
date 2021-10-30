@@ -2,7 +2,7 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Publications and Working Papers"
@@ -79,16 +79,4 @@ subtitle = ""
 
 ### Publications
 
-- <u>Sun, H.</u>, Brashears, M. E., & Smith, E. B. (forthcoming). Network Representation Capacity: How Social Relationships are Represented in Human Mind. In Small, M. L, Perry, B. L., Pescosolido, B., & Smith, E. B. (Eds.), *Personal Networks: Classic Readings and New Directions in Ego-centric Analysis*. Cambridge University Press.
-
-### Working Papers
-
-- Cognitive Search and Social Networks (with Edward B. Smith)
-  - “The Cognitive Underpinning of Social Networks” Symposium. Academy of Management Meeting. Chicago, IL. 2018.
-  - “Networks in Cognitive Science”. NetSci. Burlington, VT. 2019. 
-
-<!-- -->
-
-- From Material Reproduction to Cultural Elaboration: Revival of Classical Chinese Furniture Making (with Lantian Li)
-  - EGOS Colloquium. Edinburgh, UK. 2019.
-
+- <u>Sun, H.</u>, Brashears, M. E., & Smith, E. B. (2021). Network Representation Capacity: How Social Relationships are Represented in Human Mind. In Small, M. L, Perry, B. L., Pescosolido, B., & Smith, E. B. (Eds.), *Personal Networks: Classic Readings and New Directions in Ego-centric Analysis*. Cambridge University Press. [[PDF]](https://www.huisunsh.com/paper/Sun_Brashears_Smith_2021.pdf)
