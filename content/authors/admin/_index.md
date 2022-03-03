@@ -79,7 +79,7 @@ email: ""
 # - Visitors
 ---
 
-I am a Ph.D. candidate in the [Management & Organizations Department](https://www.kellogg.northwestern.edu/faculty/academics/management-and-organizations.aspx) at Kellogg School of Management, Northwestern University.  I will be joining the [House of Innovation](https://www.hhs.se/houseofinnovation) at the Stockholm School of Economics in Fall 2022.
+I am a Ph.D. candidate in the [Management & Organizations Department](https://www.kellogg.northwestern.edu/faculty/academics/management-and-organizations.aspx) at Kellogg School of Management, Northwestern University.  I will be joining the House of Innovation at the [Stockholm School of Economics](https://www.hhs.se/houseofinnovation) as an Assistant Professor in Fall 2022.
 
 My research concerns the role of cognition in entrepreneurship, behavioral strategy, and social networks. More information can be found on my CV {{< staticref "files/HuiSUN_CV.pdf" "newtab" >}} {{< icon name="download" pack="fas" >}} {{< /staticref >}}.
 
