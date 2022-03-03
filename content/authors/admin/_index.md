@@ -79,9 +79,9 @@ email: ""
 # - Visitors
 ---
 
-I am a Ph.D. candidate in the [Management & Organizations Department](https://www.kellogg.northwestern.edu/faculty/academics/management-and-organizations.aspx) at Kellogg School of Management, Northwestern University. Here is my CV {{< staticref "files/HuiSUN_CV.pdf" "newtab" >}} {{< icon name="download" pack="fas" >}} {{< /staticref >}}.
+I am a Ph.D. candidate in the [Management & Organizations Department](https://www.kellogg.northwestern.edu/faculty/academics/management-and-organizations.aspx) at Kellogg School of Management, Northwestern University.  I will be joining the [House of Innovation](https://www.hhs.se/houseofinnovation) at the Stockholm School of Economics in Fall 2022.
 
-My research concerns the role of cognition in entrepreneurship, behavioral strategy, and social networks.
+My research concerns the role of cognition in entrepreneurship, behavioral strategy, and social networks. More information can be found on my CV {{< staticref "files/HuiSUN_CV.pdf" "newtab" >}} {{< icon name="download" pack="fas" >}} {{< /staticref >}}.
 
 - <u>Cognition X Entrepreneurship</u>: I combine computational modeling and qualitative methods to understand (a) how founders learn from a paucity of experience, (b) how founders' learning strategies influence the structure of mental models they acquire, which subsequently shape their decisions.
 - <u>Cognition X Behavioral strategy</u>: Stories and models are two primary ways that organizations coordinate the cognition of their members. Hence, I ask (a) what are the limits of coordination through language, and (b) what are the limits of coordination through algorithms.
@@ -89,6 +89,6 @@ My research concerns the role of cognition in entrepreneurship, behavioral strat
 
 As a mixed-methods scholar, I use a combination of quantitative, qualitative, and computational methods. You can find resources on automating surveys (Javascript), interactive network analysis (R), and network learning experiments (Python) on my [Github](https://github.com/huisunsh). I am a keen advocate for women in coding and reproducible research.
 
-Prior to Northwestern, I obtained my B.S. in Experimental Psychology and B.A. in Digital Entertainment Design from Tsinghua University. I also had a wonderful time doing research on cognitive modeling in [Dr. Cleotilde (Coty) Gonzalez](https://www.cmu.edu/dietrich/sds/people/faculty/cleotilde-gonzalez.html)'s Dynamic Decision Making Lab at [Carnegie Mellon University](https://www.cmu.edu/).
+Prior to Northwestern, I obtained my B.S. in Experimental Psychology and B.A. in Digital Entertainment Design from Tsinghua University. I had a wonderful time doing research on cognitive modeling in [Dr. Cleotilde (Coty) Gonzalez](https://www.cmu.edu/dietrich/sds/people/faculty/cleotilde-gonzalez.html)'s Dynamic Decision Making Lab at [Carnegie Mellon University](https://www.cmu.edu/).
 
 When I am offline, I have fun playing [pipa](https://en.wikipedia.org/wiki/Pipa) and cello.
