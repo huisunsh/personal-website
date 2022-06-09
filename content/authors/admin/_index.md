@@ -18,18 +18,18 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include organizational search and learning, cognitive science, and social networks. I use a mix of qualitative data, computational modeling, and experiments.
+bio: I am an economic sociologist and organization theorists with a focus on human cognition. I use a mix of qualitative, quantitative, experimental and computational methods.
 
 interests:
-- Managerial Cognition
-- Organizational Learning
-- Entrepreneurship
-- Social Networks
-- Mixed Methods (computational, qualitative, experimental)
+- Managerial Cognition and Decision Making
+- Organization Design
+- Organization Theory
+- Economic Sociology
+- Mixed Methods (qualitative, quantitative, computational and experimental)
 
 education:
   courses:
-  - course: PhD in Management & Organizations (minor in Computational Cognitive Science)
+  - course: PhD in Management & Organizations
     institution: Northwestern University
     year: 2022
   - course: MS in Statstics
@@ -79,15 +79,15 @@ email: ""
 # - Visitors
 ---
 
-I am a Ph.D. candidate in the [Management & Organizations Department](https://www.kellogg.northwestern.edu/faculty/academics/management-and-organizations.aspx) at Kellogg School of Management, Northwestern University.  I will be joining the House of Innovation at the [Stockholm School of Economics](https://www.hhs.se/houseofinnovation) as an Assistant Professor in Fall 2022.
+I am an economist sociologist and organizational theorist in the [Management & Organizations Department](https://www.kellogg.northwestern.edu/faculty/academics/management-and-organizations.aspx) at Kellogg School of Management, Northwestern University.  I will be joining the House of Innovation at the [Stockholm School of Economics](https://www.hhs.se/houseofinnovation) as an Assistant Professor in Fall 2022.
 
-My research concerns the role of cognition in entrepreneurship, behavioral strategy, and social networks. More information can be found on my CV {{< staticref "files/HuiSUN_CV.pdf" "newtab" >}} {{< icon name="download" pack="fas" >}} {{< /staticref >}}.
+My research primarily concerns the role of cognition in entrepreneurship, organization design and social networks. More information can be found on my CV {{< staticref "files/HuiSUN_CV.pdf" "newtab" >}} {{< icon name="download" pack="fas" >}} {{< /staticref >}}.
 
 - <u>Cognition X Entrepreneurship</u>: I combine computational modeling and qualitative methods to understand (a) how founders learn from a paucity of experience, (b) how founders' learning strategies influence the structure of mental models they acquire, which subsequently shape their decisions.
-- <u>Cognition X Behavioral strategy</u>: Stories and models are two primary ways that organizations coordinate the cognition of their members. Hence, I ask (a) what are the limits of coordination through language, and (b) what are the limits of coordination through algorithms.
+- <u>Cognition X Organization design</u>: Stories and models are two primary ways that organizations coordinate the cognition of their members. Hence, I ask (a) what are the limits of coordination through language, and (b) what are the limits of coordination through algorithms.
 - <u>Cognition X Social networks</u>: I study how individuals mentally organize their social connections. In particular, I find that independent of who you know, how you mentally organize who you know matters. 
 
-As a mixed-methods scholar, I use a combination of quantitative, qualitative, and computational methods. You can find resources on automating surveys (Javascript), interactive network analysis (R), and network learning experiments (Python) on my [Github](https://github.com/huisunsh). I am a keen advocate for women in coding and reproducible research.
+As a mixed-methods scholar, I use a combination of quantitative, qualitative, computational and experimental methods. You can find resources on automating surveys (Javascript), interactive network analysis (R), and network learning experiments (Python) on my [Github](https://github.com/huisunsh). I am a keen advocate for women in coding and reproducible research.
 
 Prior to Northwestern, I obtained my B.S. in Experimental Psychology and B.A. in Digital Entertainment Design from Tsinghua University. I had a wonderful time doing research on cognitive modeling in [Dr. Cleotilde (Coty) Gonzalez](https://www.cmu.edu/dietrich/sds/people/faculty/cleotilde-gonzalez.html)'s Dynamic Decision Making Lab at [Carnegie Mellon University](https://www.cmu.edu/).
 
