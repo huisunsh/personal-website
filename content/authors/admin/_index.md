@@ -79,7 +79,7 @@ email: ""
 # - Visitors
 ---
 
-I am an economist sociologist and organizational theorist in the [Management & Organizations Department](https://www.kellogg.northwestern.edu/faculty/academics/management-and-organizations.aspx) at Kellogg School of Management, Northwestern University.  I will be joining the Department of Entrepreneurship, Innovation and Technology at the [Stockholm School of Economics](https://www.hhs.se/houseofinnovation) as an Assistant Professor in Fall 2022.
+I am an economic sociologist and organizational theorist in the [Management & Organizations Department](https://www.kellogg.northwestern.edu/faculty/academics/management-and-organizations.aspx) at Kellogg School of Management, Northwestern University.  I will be joining the Department of Entrepreneurship, Innovation and Technology at the [Stockholm School of Economics](https://www.hhs.se/houseofinnovation) as an Assistant Professor in Fall 2022.
 
 My research primarily concerns the role of cognition in entrepreneurship, organization design and social networks. More information can be found on my CV {{< staticref "files/HuiSUN_CV.pdf" "newtab" >}} {{< icon name="download" pack="fas" >}} {{< /staticref >}}.
 
