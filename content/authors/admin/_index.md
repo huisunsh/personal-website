@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. candidate in Management & Organizations
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Northwestern University, Kellogg School of Management
-  url: ""
+- name: Department of Entrepreneurship, Innovation and Technology, Stockholm School of Economics
+  url: https://www.hhs.se/en/research/research-houses/house-of-innovation/our-people/-/hui-sun/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am an economic sociologist and organization theorists with a focus on human cognition. I use a mix of qualitative, quantitative, experimental and computational methods.
@@ -53,7 +53,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:hui.sun@kellogg.northwestern.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:hui.sun@hhs.se'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/huisunsh
