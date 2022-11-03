@@ -14,11 +14,11 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Entrepreneurship, Innovation and Technology, Stockholm School of Economics
+- name: Stockholm School of Economics
   url: https://www.hhs.se/en/research/research-houses/house-of-innovation/our-people/-/hui-sun/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an economic sociologist and organization theorists with a focus on human cognition. I use a mix of qualitative, quantitative, experimental and computational methods.
+bio: I am an economic sociologist and organization theorist with a focus on human cognition. I use a mix of qualitative, quantitative, experimental and computational methods.
 
 interests:
 - Managerial Cognition and Decision Making
@@ -79,16 +79,16 @@ email: ""
 # - Visitors
 ---
 
-I am an economic sociologist and organizational theorist in the [Management & Organizations Department](https://www.kellogg.northwestern.edu/faculty/academics/management-and-organizations.aspx) at Kellogg School of Management, Northwestern University.  I will be joining the Department of Entrepreneurship, Innovation and Technology at the [Stockholm School of Economics](https://www.hhs.se/houseofinnovation) as an Assistant Professor in Fall 2022.
+I am an Assistant Professor in the [Department of Entrepreneurship, Innovation and Technology](https://www.hhs.se/en/research/research-houses/house-of-innovation/) at Stockholm School of Economics. 
 
 My research primarily concerns the role of cognition in entrepreneurship, organization design and social networks. More information can be found on my CV {{< staticref "files/HuiSUN_CV.pdf" "newtab" >}} {{< icon name="download" pack="fas" >}} {{< /staticref >}}.
 
-- <u>Cognition X Entrepreneurship</u>: I combine computational modeling and qualitative methods to understand (a) how founders learn from a paucity of experience, (b) how founders' learning strategies influence the structure of mental models they acquire, which subsequently shape their decisions.
+- <u>Cognition X Entrepreneurship</u>: I combine computational modeling and qualitative methods to understand how founders learn and make strategy under environments with a paucity of experience and Knightian uncertainty.
 - <u>Cognition X Organization design</u>: Stories and models are two primary ways that organizations coordinate the cognition of their members. Hence, I ask (a) what are the limits of coordination through language, and (b) what are the limits of coordination through algorithms.
 - <u>Cognition X Social networks</u>: I study how individuals mentally organize their social connections. In particular, I find that independent of who you know, how you mentally organize who you know matters. 
 
 As a mixed-methods scholar, I use a combination of quantitative, qualitative, computational and experimental methods. You can find resources on automating surveys (Javascript), interactive network analysis (R), and network learning experiments (Python) on my [Github](https://github.com/huisunsh). I am a keen advocate for women in coding and reproducible research.
 
-Prior to Northwestern, I obtained my B.S. in Experimental Psychology and B.A. in Digital Entertainment Design from Tsinghua University. I had a wonderful time doing research on cognitive modeling in [Dr. Cleotilde (Coty) Gonzalez](https://www.cmu.edu/dietrich/sds/people/faculty/cleotilde-gonzalez.html)'s Dynamic Decision Making Lab at [Carnegie Mellon University](https://www.cmu.edu/).
+`[Prior to Northwestern, I obtained my B.S. in Experimental Psychology and B.A. in Digital Entertainment Design from Tsinghua University. I had a wonderful time doing research on cognitive modeling in [Dr. Cleotilde (Coty) Gonzalez](https://www.cmu.edu/dietrich/sds/people/faculty/cleotilde-gonzalez.html)'s Dynamic Decision Making Lab at [Carnegie Mellon University](https://www.cmu.edu/).]`
 
 When I am offline, I have fun playing [pipa](https://en.wikipedia.org/wiki/Pipa) and cello.
