@@ -18,12 +18,12 @@ organizations:
   url: https://www.hhs.se/en/research/research-houses/house-of-innovation/our-people/-/hui-sun/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an economic sociologist and organization theorist with a focus on human cognition. I use a mix of qualitative, quantitative, experimental and computational methods.
+bio: I am a business school professor expertise in the role of human cognition in entrepreneurship, organizational decision-making and social networks. I use a mix of qualitative, quantitative, experimental and computational methods.
 
 interests:
 - Managerial Cognition and Decision Making
+- Entrepreneurship
 - Organization Design
-- Organization Theory
 - Economic Sociology
 - Mixed Methods (qualitative, quantitative, computational and experimental)
 
@@ -81,7 +81,7 @@ email: ""
 
 I am an Assistant Professor in the [Department of Entrepreneurship, Innovation and Technology](https://www.hhs.se/en/research/research-houses/house-of-innovation/) at Stockholm School of Economics. 
 
-My research primarily concerns the role of cognition in entrepreneurship, organization design and social networks. More information can be found on my CV {{< staticref "files/HuiSUN_CV.pdf" "newtab" >}} {{< icon name="download" pack="fas" >}} {{< /staticref >}}.
+My research focuses on organizations of the 21st century, that is, non-traditional, less-hierarchical, fluid organizations (e.g., entrepreneurial teams, open communities, platforms). My work primarily concerns the role of human cognition in entrepreneurship, organization design and social networks. More information can be found on my CV {{< staticref "files/HuiSUN_CV.pdf" "newtab" >}} {{< icon name="download" pack="fas" >}} {{< /staticref >}}.
 
 - <u>Cognition X Entrepreneurship</u>: I combine computational modeling and qualitative methods to understand how founders learn and make strategy under environments with a paucity of experience and Knightian uncertainty.
 - <u>Cognition X Organization design</u>: Stories and models are two primary ways that organizations coordinate the cognition of their members. Hence, I ask (a) what are the limits of coordination through language, and (b) what are the limits of coordination through algorithms.
