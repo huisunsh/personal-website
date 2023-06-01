@@ -81,11 +81,11 @@ email: ""
 
 I am an Assistant Professor in the [Department of Entrepreneurship, Innovation and Technology](https://www.hhs.se/en/research/research-houses/house-of-innovation/) at Stockholm School of Economics. 
 
-My research focuses on organizations of the 21st century, that is, non-traditional, less-hierarchical, fluid organizations (e.g., entrepreneurial teams, open communities, platforms). My work primarily concerns the role of human cognition in entrepreneurship, organization design and social networks. More information can be found on my CV {{< staticref "files/HuiSUN_CV.pdf" "newtab" >}} {{< icon name="download" pack="fas" >}} {{< /staticref >}}.
+My research focuses on organizations of the 21st century, that is, non-traditional, less-hierarchical, fluid organizations (e.g., entrepreneurial teams, open communities, platforms). My work primarily concerns the role of human cognition in entrepreneurial strategy, organization design and social network mobilization. More information can be found on my CV {{< staticref "files/HuiSUN_CV.pdf" "newtab" >}} {{< icon name="download" pack="fas" >}} {{< /staticref >}}.
 
-- <u>Cognition X Entrepreneurship</u>: I combine computational modeling and qualitative methods to understand how founders learn and make strategy under environments with a paucity of experience and Knightian uncertainty.
-- <u>Cognition X Organization design</u>: Stories and models are two primary ways that organizations coordinate the cognition of their members. Hence, I ask (a) what are the limits of coordination through language, and (b) what are the limits of coordination through algorithms.
-- <u>Cognition X Social networks</u>: I study how individuals mentally organize their social connections. In particular, I find that independent of who you know, how you mentally organize who you know matters. 
+- <u>Cognition X Entrepreneurship</u>: I combine computational modeling and qualitative methods to understand how entrepreneurs create strategy under ambiguous and Knightian uncertain environments.
+- <u>Cognition X Organization design</u>: Stories and algorithms are two primary ways that organizations coordinate the cognition of their members. Hence, I ask (a) what are the limits of coordination through language, and (b) what are the limits of coordination through algorithms.
+- <u>Cognition X Social networks</u>: I study how individuals' mental organization of their social networks affect their mobilization of network resources.
 
 As a mixed-methods scholar, I use a combination of quantitative, qualitative, computational and experimental methods. You can find resources on automating surveys (Javascript), interactive network analysis (R), and network learning experiments (Python) on my [Github](https://github.com/huisunsh). I am a keen advocate for women in coding and reproducible research.
 
