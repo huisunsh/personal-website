@@ -31,7 +31,7 @@ education:
   courses:
   - course: PhD in Management & Organizations
     institution: Northwestern University
-    year: 2022
+    year: 2023 (expected)
   - course: MS in Statstics
     institution: Northwestern University
     year: 2022
