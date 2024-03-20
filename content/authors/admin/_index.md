@@ -31,19 +31,12 @@ education:
   courses:
   - course: PhD in Management & Organizations
     institution: Northwestern University
-    year: 2023 (expected)
-  - course: MS in Statstics
+  - course: MS in Statstics; MS in Management & Organizations
     institution: Northwestern University
-    year: 2022
-  - course: MS in Management & Organizations
-    institution: Northwestern University
-    year: 2019
   - course: BS in Experimental Psychology
     institution: Tsinghua University
-    year: 2016
   - course: BA in Game & Interactive Media Design
     institution: Tsinghua University
-    year: 2016
 
 
 # Social/Academic Networking
@@ -79,7 +72,7 @@ email: ""
 # - Visitors
 ---
 
-I am an Assistant Professor in the [Department of Entrepreneurship, Innovation and Technology](https://www.hhs.se/en/research/research-houses/house-of-innovation/) at Stockholm School of Economics. 
+I am an Assistant Professor in the [Department of Entrepreneurship, Innovation and Technology](https://www.hhs.se/en/research/research-houses/house-of-innovation/) at the Stockholm School of Economics. 
 
 My research focuses on organizations of the 21st century, that is, non-traditional, less-hierarchical, fluid organizations (e.g., entrepreneurial teams, open communities, platforms). My work primarily concerns the role of human cognition in entrepreneurial strategy, organization design and social network mobilization. More information can be found on my CV {{< staticref "files/HuiSUN_CV.pdf" "newtab" >}} {{< icon name="download" pack="fas" >}} {{< /staticref >}}.
 
@@ -89,6 +82,6 @@ My research focuses on organizations of the 21st century, that is, non-tradition
 
 As a mixed-methods scholar, I use a combination of quantitative, qualitative, computational and experimental methods. You can find resources on automating surveys (Javascript), interactive network analysis (R), and network learning experiments (Python) on my [Github](https://github.com/huisunsh). I am a keen advocate for women in coding and reproducible research.
 
-Prior to Northwestern, I obtained my B.S. in Experimental Psychology and B.A. in Digital Entertainment Design from Tsinghua University. I had a wonderful time doing research on cognitive modeling in [Dr. Cleotilde (Coty) Gonzalez](https://www.cmu.edu/dietrich/sds/people/faculty/cleotilde-gonzalez.html)'s Dynamic Decision Making Lab at [Carnegie Mellon University](https://www.cmu.edu/).
+I received my PhD from the [Management & Organizations Department](https://www.kellogg.northwestern.edu/faculty/academics/management-and-organizations.aspx) at Northwestern Kellogg. Prior to Northwestern, I obtained my B.S. in Experimental Psychology and B.A. in Digital Entertainment Design from Tsinghua University. I had a wonderful time doing research on cognitive modeling in [Dr. Cleotilde (Coty) Gonzalez](https://www.cmu.edu/dietrich/sds/people/faculty/cleotilde-gonzalez.html)'s Dynamic Decision Making Lab at [Carnegie Mellon University](https://www.cmu.edu/).
 
 When I am offline, I have fun playing [pipa](https://en.wikipedia.org/wiki/Pipa) and cello.
