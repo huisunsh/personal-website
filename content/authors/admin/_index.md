@@ -80,6 +80,6 @@ My research focuses on how cognition and language affect organizational strategy
 
 As a mixed-methods scholar, I combine quantitative, qualitative, computational, and experimental methods. You can find resources on automating surveys (Javascript), interactive network analysis (R), and network learning experiments (Python) on my [Github](https://github.com/huisunsh).
 
-I received my PhD in Management & Organizations, MS in statistics, and MA in management from Northwestern University. Prior to Northwestern, I obtained my B.S. in Experimental Psychology and B.A. in Digital Entertainment Design from Tsinghua University. I had a wonderful time doing research on cognitive modeling in [Dr. Cleotilde (Coty) Gonzalez](https://www.cmu.edu/dietrich/sds/people/faculty/cleotilde-gonzalez.html)'s Dynamic Decision Making Lab at [Carnegie Mellon University](https://www.cmu.edu/).
+I received my PhD in Management & Organizations from [Northwestern Kellogg](https://www.kellogg.northwestern.edu/). Before Northwestern, I obtained my B.S. in Experimental Psychology and B.A. in Digital Entertainment Design from Tsinghua University. I had a wonderful time doing research on cognitive modeling in [Dr. Cleotilde (Coty) Gonzalez](https://www.cmu.edu/dietrich/sds/people/faculty/cleotilde-gonzalez.html)'s Dynamic Decision Making Lab at [Carnegie Mellon University](https://www.cmu.edu/).
 
 When I am offline, I have fun playing [pipa](https://en.wikipedia.org/wiki/Pipa) and cello.
