@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:hui.sun@hhs.se'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:h.sun@fs.de'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/huisunsh
