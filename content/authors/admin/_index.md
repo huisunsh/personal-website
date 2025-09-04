@@ -18,12 +18,13 @@ organizations:
   url: https://www.frankfurt-school.de/en/Person/0000009064461~~/hui-sun
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a business school professor expertise in the role of human cognition in organizational learning, decision-making and social networks. I use a mix of qualitative, quantitative, experimental, and computational methods.
+bio: I am a business school professor with expertise in the role of human cognition and communication in organizational learning, decision-making, strategy-making and social networks. I use a mix of qualitative, quantitative, experimental, and computational methods.
 
 interests:
 - Cognitive science
 - Organizational learning and decision-making
 - Network mobilization
+- AI and emerging technologies
 - Mixed Methods (qualitative, quantitative, computational, and experimental)
 
 education:
@@ -73,10 +74,10 @@ email: ""
 
 I am an Assistant Professor of Organization Theory in the [Management Department](https://www.frankfurt-school.de/en/home/research/departments/management.html) at the Frankfurt School of Finance & Management. 
 
-My research focuses on how cognition and language affect organizational strategy-making and network mobilization. More information can be found on my CV {{< staticref "files/HuiSUN_CV.pdf" "newtab" >}} {{< icon name="download" pack="fas" >}} {{< /staticref >}}.
+My research focuses on how cognition and language affect organizational strategy-making, decision-making and network mobilization. More information can be found on my CV {{< staticref "files/HuiSUN_CV.pdf" "newtab" >}} {{< icon name="download" pack="fas" >}} {{< /staticref >}}.
 
-- <u>Cognition X Organization Learning</u>: I combine computational modeling and qualitative methods to understand how to strategize effectively with small histories in highly uncertain environments.
-- <u>Cognition X Network Mobilization</u>: I study how individuals' mental organization of their social networks affects their mobilization of network resources.
+- <u>Cognition X Organization Learning</u>: I combine computational modeling and qualitative methods to understand how to organize and strategize effectively in the face of disruptive technologies and regulatory turbulences.
+- <u>Cognition X Network Mobilization</u>: I study how individuals' mental organization of their social networks affects their mobilization and conferral of network resources.
 
 As a mixed-methods scholar, I combine quantitative, qualitative, computational, and experimental methods. You can find resources on automating surveys (Javascript), interactive network analysis (R), and network learning experiments (Python) on my [Github](https://github.com/huisunsh).
 
